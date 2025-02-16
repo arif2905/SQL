@@ -1,3 +1,10 @@
+--
+SELECT " nama colomn "
+FROM " nama tabel "
+--
+
+
+
 SELECT *
 FROM parks_and_recreation.employee_demographics;
 
@@ -10,8 +17,4 @@ age,
 age + 10 AS AGE	
 FROM parks_and_recreation.employee_demographics;
 
-
-SELECT 
-DISTINCT gender
-FROM parks_and_recreation.employee_demographics;
  
